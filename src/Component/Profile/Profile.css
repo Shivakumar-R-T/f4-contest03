@@ -1,0 +1,14 @@
+.user-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uesr-body{
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 20px;
+    
+}
+.user-name,.user-email{
+    margin-bottom: 20px;
+}

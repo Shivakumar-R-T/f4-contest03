@@ -1,0 +1,30 @@
+.login-container{
+    /* background-color: red; */
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    /* place-items: center; */
+    justify-content: center;
+    align-items: center;
+}
+.login-body{
+    background-color: antiquewhite;
+    /* width: 600px;
+    height: 300px; */
+    width: max-content;
+    height: max-content;
+    padding: 11px 17px;
+    border-radius: 5px;
+}
+
+.error-container{
+    margin-top: 15px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+
+}
+.error{
+    color: red;
+    font-size: 20px;
+}
